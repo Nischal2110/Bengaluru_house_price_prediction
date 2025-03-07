@@ -9,7 +9,7 @@ This project focuses on applying data analysis and machine learning techniques t
 
 **Model Enhancement**: Utilized machine learning algorithms, including logistic regression, and implemented continuous model refinement, leading to a 20% improvement in model accuracy and a 15% reduction in prediction errors over time.
 
-*Technologies Used*
+Technologies Used
 **Programming Languages**: Python
 **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib
 **Machine Learning Algorithms**: Logistic Regression, Regression Techniques
