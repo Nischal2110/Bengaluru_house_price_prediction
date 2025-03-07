@@ -1,2 +1,2 @@
-# Bangalore_house_price_prediction
-save both file in same folder and run
+# Bangalore_House_Price_Prediction
+**Description**: This project focuses on applying data analysis and machine learning techniques to predict house prices in Bengaluru, India. By leveraging key real estate features such as location, square footage, and other relevant attributes, the project aims to build a robust predictive model capable of estimating house prices with improved accuracy and reduced prediction errors.
